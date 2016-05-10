@@ -6,7 +6,7 @@
   * All null words have non-null children.
   * All null words dont have non-null children.
   * Mix for null words (have both null words variants).
-* malttabExporter.py.
-* malttabEval.py.
-* FeaturesExtractor.py.
-* FeaturesExtractor2.py.
+* malttabExporter.py. Export from SynTagRus format to Malt-TAB format.
+* malttabEval.py. Estimate of MaltParser analysis qualtity.
+* FeaturesExtractor.py. Classify features extraction.
+* FeaturesExtractor2.py. Classify features extraction. Features are a bit different.
